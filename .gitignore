@@ -1,3 +1,7 @@
+CvcMuscima-Distortions/
+ds2_dense/
+yolo_dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
